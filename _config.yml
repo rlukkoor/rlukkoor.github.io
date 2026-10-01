@@ -10,7 +10,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Rohith Lukkoor's Website]
-description: [I will use this site to tell you a little more about myself!]
+description: [All about me!]
 
-show_downloads: [true]
+show_downloads: [false]
 google_analytics: [Your Google Analytics tracking ID]

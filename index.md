@@ -16,10 +16,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Contact Info and Links
 
-rohithlukkoor@gmail.com       (408) 805-0506       San Diego, CA         
-[Tableau](https://public.tableau.com/app/profile/rohith.lukkoor/vizzes)                     [LinkedIn](https://www.linkedin.com/in/rohithlukkoor/)           [Github](https://github.com/rlukkoor)
+rohithlukkoor@gmail.com&emsp;&emsp;(408) 805-0506&emsp;&emsp;San Diego, CA         
+[Tableau](https://public.tableau.com/app/profile/rohith.lukkoor/vizzes)&emsp;&emsp;[LinkedIn](https://www.linkedin.com/in/rohithlukkoor/)&emsp;&emsp;[Github](https://github.com/rlukkoor)
 
-Data Analyst & AI Engineer | Geospatial Analysis, Machine Learning, Business Intelligence
+Data Analyst & AI Engineer | Supply Chain, Geospatial Analysis, Machine Learning, Business Intelligence
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
@@ -38,11 +38,11 @@ and compute key spatial metrics (floor area, perimeter)
 * Transformed spatial measurements into structured inputs for generative AI models to produce accurate
 cost and material quantity estimates
 * Automated early-stage feasibility analysis, streamlining planning workflows and improving construction
-decision-making
+decision-making\
 AI Engineer, Poseydon Properties, San Marcos, CA, Mar 2025 - Jul 2025
 * Developed a smart property investment platform that leverages ChatGPT’s Deep Research to analyze real
 estate listings against predefined criteria, automatically generating reports with key financial metrics
-(ROI, CAP rate) to deliver tailored investment recommendations
+(ROI, CAP rate) to deliver tailored investment recommendations\
 Data Analyst, Vivensity, Palo Alto, CA, Sept 2021 - Feb 2025
 * Wrote Python code to add new features to existing web dashboards for improved user experience
 * Updated SSO interface on web application for enhanced user friendliness
@@ -50,7 +50,7 @@ Data Analyst, Vivensity, Palo Alto, CA, Sept 2021 - Feb 2025
 analyzing feedback from the student population, with summarized insights and visualizations for senior
 leadership.
 * Identified and proposed a user engagement improvement to company CEO, now in active
-implementation
+implementation\
 Software Engineer, Nuage Networks, Sunnyvale, CA, Jul 2019 - Dec 2019
 * Developed Python application for network switch to automate data collection, reduce extraction time,
 and simplify performance and efficiency analysis of internal data structures
