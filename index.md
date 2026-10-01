@@ -38,11 +38,13 @@ and compute key spatial metrics (floor area, perimeter)
 * Transformed spatial measurements into structured inputs for generative AI models to produce accurate
 cost and material quantity estimates
 * Automated early-stage feasibility analysis, streamlining planning workflows and improving construction
-decision-making\
+decision-making
+
 AI Engineer, Poseydon Properties, San Marcos, CA, Mar 2025 - Jul 2025
 * Developed a smart property investment platform that leverages ChatGPT’s Deep Research to analyze real
 estate listings against predefined criteria, automatically generating reports with key financial metrics
-(ROI, CAP rate) to deliver tailored investment recommendations\
+(ROI, CAP rate) to deliver tailored investment recommendations
+
 Data Analyst, Vivensity, Palo Alto, CA, Sept 2021 - Feb 2025
 * Wrote Python code to add new features to existing web dashboards for improved user experience
 * Updated SSO interface on web application for enhanced user friendliness
@@ -50,7 +52,8 @@ Data Analyst, Vivensity, Palo Alto, CA, Sept 2021 - Feb 2025
 analyzing feedback from the student population, with summarized insights and visualizations for senior
 leadership.
 * Identified and proposed a user engagement improvement to company CEO, now in active
-implementation\
+implementation
+
 Software Engineer, Nuage Networks, Sunnyvale, CA, Jul 2019 - Dec 2019
 * Developed Python application for network switch to automate data collection, reduce extraction time,
 and simplify performance and efficiency analysis of internal data structures
@@ -69,8 +72,8 @@ and identifying the municipalities most exposed to coastal flooding.
 loss and correlating deforestation rates with Brazilian policy changes.
 
 ### EDUCATION
-+ California State University, San Marcos; Master of Science (M.S.) in Supply Chain Analytics, Aug. 2027
-+ UC Santa Cruz; Bachelor of Science (B.S.) in Computer Science, Dec. 2018
++ California State University, San Marcos; Master of Science (*M.S.*) in Supply Chain Analytics, Aug. 2027
++ UC Santa Cruz; Bachelor of Science (*B.S.*) in Computer Science, Dec. 2018
 + UC San Diego: Certificate in Machine Learning Methods, Dec. 2024
 + TripleTen: Certificate in Business Intelligence Analytics, Jun. 2024
 + University of Michigan: Certificate in Applied Data Science with Python, Sep. 2021
