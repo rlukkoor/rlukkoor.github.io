@@ -72,11 +72,11 @@ and identifying the municipalities most exposed to coastal flooding.
 loss and correlating deforestation rates with Brazilian policy changes.
 
 ### EDUCATION
-+ California State University, San Marcos; Master of Science (*M.S.*) in Supply Chain Analytics, Aug. 2027
-+ UC Santa Cruz; Bachelor of Science (*B.S.*) in Computer Science, Dec. 2018
-+ UC San Diego: Certificate in Machine Learning Methods, Dec. 2024
-+ TripleTen: Certificate in Business Intelligence Analytics, Jun. 2024
-+ University of Michigan: Certificate in Applied Data Science with Python, Sep. 2021
+\- California State University, San Marcos; Master of Science (*M.S.*) in Supply Chain Analytics, Aug. 2027
+\- UC Santa Cruz; Bachelor of Science (*B.S.*) in Computer Science, Dec. 2018
+\- UC San Diego: Certificate in Machine Learning Methods, Dec. 2024
+\- TripleTen: Certificate in Business Intelligence Analytics, Jun. 2024
+\- University of Michigan: Certificate in Applied Data Science with Python, Sep. 2021
 
 #### Header 4
 
