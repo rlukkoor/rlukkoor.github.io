@@ -12,5 +12,5 @@ plugins:
 title: [Rohith Lukkoor's Website]
 description: [All about me!]
 
-show_downloads: [False]
+show_downloads: [false]
 google_analytics: [Your Google Analytics tracking ID]
