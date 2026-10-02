@@ -4,10 +4,9 @@ layout: default
 
 # Rohith Lukkoor Professional Webpage
 
-***Welcome my personal webpage!***
+***Welcome to my personal webpage!***
 
 ## Contact Info and Links
-<!-- -->
 
 | | | |
 | :--- | :--- | :--- |
