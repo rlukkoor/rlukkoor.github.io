@@ -7,7 +7,6 @@ layout: default
 ***Welcome my personal webpage!***
 
 ## Contact Info and Links
-
 | | | |
 | :--- | :--- | :--- |
 | rohithlukkoor@gmail.com | (408) 805-0506 | San Diego, CA |
