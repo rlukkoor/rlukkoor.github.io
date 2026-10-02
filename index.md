@@ -8,8 +8,10 @@ layout: default
 
 ## Contact Info and Links
 
-rohithlukkoor@gmail.com &nbsp;&nbsp;&nbsp;&nbsp; (408) 805-0506 &nbsp;&nbsp;&nbsp;&nbsp; San Diego, CA\
-[Tableau](https://public.tableau.com/app/profile/rohith.lukkoor/vizzes) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/rohithlukkoor/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Github](https://github.com/rlukkoor)
+| | | |
+| :--- | :--- | :--- |
+| rohithlukkoor@gmail.com | (408) 805-0506 | San Diego, CA |
+| [Tableau](https://tableau.com) | [LinkedIn](https://linkedin.com) | [Github](https://github.com) |
 
 **Data Analyst & AI Engineer | Supply Chain, Geospatial Analysis, Machine Learning, Business Intelligence**
 
@@ -61,10 +63,8 @@ and identifying the municipalities most exposed to coastal flooding.
 loss and correlating deforestation rates with Brazilian policy changes.
 
 ### EDUCATION
-```
-- California State University, San Marcos; Master of Science (M.S.) in Supply Chain Analytics, Aug. 2027
-- UC Santa Cruz; Bachelor of Science (B.S.) in Computer Science, Dec. 2018
-- UC San Diego: Certificate in Machine Learning Methods, Dec. 2024
-- TripleTen: Certificate in Business Intelligence Analytics, Jun. 2024
+- California State University, San Marcos; Master of Science (M.S.) in Supply Chain Analytics, Aug. 2027\
+- UC Santa Cruz; Bachelor of Science (B.S.) in Computer Science, Dec. 2018\
+- UC San Diego: Certificate in Machine Learning Methods, Dec. 2024\
+- TripleTen: Certificate in Business Intelligence Analytics, Jun. 2024\
 - University of Michigan: Certificate in Applied Data Science with Python, Sep. 2021
-```
