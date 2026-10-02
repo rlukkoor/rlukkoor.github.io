@@ -13,7 +13,7 @@ layout: default
 | rohithlukkoor@gmail.com | (408) 805-0506 | San Diego, CA |
 | [Tableau](https://tableau.com) | [LinkedIn](https://linkedin.com) | [Github](https://github.com) |
 
-**Data Analyst & AI Engineer | Supply Chain, Geospatial Analysis, Machine Learning, Business Intelligence**
+__Data Analyst & AI Engineer | Supply Chain, Geospatial Analysis, Machine Learning, Business Intelligence__
 
 ### SKILLS
 * Programming Languages: Python, C, Java, SQL
