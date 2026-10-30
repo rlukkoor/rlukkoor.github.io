@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Further Info
+
 ## Introduction
 Here I will explain how I created my [e-portfolio](https://rlukkoor.github.io/). This will include the following:
 
@@ -47,7 +49,3 @@ I have also included screenshots of both the original Minimal demo page and my u
 Below is a screenshot of my GitHub Repository page, which includes my README, which I modified from its original demo version.
 
 ![My Image](../assets/img/README.png)
-
-
-
-
