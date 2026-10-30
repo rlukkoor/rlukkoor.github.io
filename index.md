@@ -68,3 +68,6 @@ loss and correlating deforestation rates with Brazilian policy changes.
 - UC San Diego: Certificate in Machine Learning Methods, Dec. 2024
 - TripleTen: Certificate in Business Intelligence Analytics, Jun. 2024
 - University of Michigan: Certificate in Applied Data Science with Python, Sep. 2021
+
+### OTHER PROJECTS
+* [Further Info](https://rlukkoor.github.io/further_info)
