@@ -49,3 +49,12 @@ I have also included screenshots of both the original Minimal demo page and my u
 Below is a screenshot of my GitHub Repository page, which includes my README, which I modified from its original demo version.
 
 ![My Image](../assets/img/README.png)
+
+## Note
+
+I have included a link to 'Further Info' on my main page in the 'Other Projects' section, as I already have an existing section called 'Projects'.
+
+## Resources
+
+* Class Lecture Slides
+* Minimal theme code 
