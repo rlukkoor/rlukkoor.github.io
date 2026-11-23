@@ -71,3 +71,4 @@ loss and correlating deforestation rates with Brazilian policy changes.
 
 ### OTHER PROJECTS
 * [Further Info](https://rlukkoor.github.io/further_info)
+* [Assignments] (https://rlukkoor.github.io/assignments/)

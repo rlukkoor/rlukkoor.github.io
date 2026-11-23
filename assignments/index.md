@@ -1,4 +1,4 @@
-This README describes a repository that contains a combined file for Assignments 1 & 2. The following describes the full instructions for each. The .ipynb file itself is organized in the same fashion.
+The following describes a repository that contains a combined file for Assignments 1 & 2. I have listed the full instructions for each. The .ipynb file itself is organized in the same fashion.
 The repository is located [here](https://github.com/rlukkoor/CSUSM/tree/main/Fall%202026/OM%20620/Assignments/Assignments_1%262).
 
 ## Assignment 1
